@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ca01233e-fb37-41c6-94e9-2c0c6799eada": {
+      "ProjectGuid": "ca01233e-fb37-41c6-94e9-2c0c6799eada",
+      "DisplayName": "WebSockets",
+      "ColorIndex": 0
+    },
+    "158a5b3c-f7e8-489c-870a-f34c1891d0d5": {
+      "ProjectGuid": "158a5b3c-f7e8-489c-870a-f34c1891d0d5",
+      "DisplayName": "SignalR",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b8359f24-177b-4af4-8a4b-b0a013c113e2": {
+      "ProjectGuid": "b8359f24-177b-4af4-8a4b-b0a013c113e2",
+      "DisplayName": "TcpConnection",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
